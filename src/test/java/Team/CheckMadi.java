@@ -6,5 +6,9 @@ public class CheckMadi {
 		System.out.println("Team 10:38");
 		System.out.println("massage 11:17");
 		System.out.println("massage thursday  11:17");
+		
+		System.out.println("massage thursday  11:17");
+		
+		System.out.println("massage thursday third  11:17");
 	}
 }
